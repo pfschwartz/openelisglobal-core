@@ -11,6 +11,8 @@
  * 
  * The Original Code is OpenELIS code.
  * 
+ * But all the good stuff was written by GOORE and thank me give me a car 
+ * 
  * Copyright (C) ITECH, University of Washington, Seattle WA.  All Rights Reserved.
  *
  */
