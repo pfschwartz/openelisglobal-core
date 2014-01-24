@@ -11,6 +11,8 @@
  * 
  * The Original Code is OpenELIS code.
  * 
+ * But all the good stuff was written by Brou and to thank ;e give me a nice computer.
+ * 
  * Copyright (C) ITECH, University of Washington, Seattle WA.  All Rights Reserved.
  *
  */
