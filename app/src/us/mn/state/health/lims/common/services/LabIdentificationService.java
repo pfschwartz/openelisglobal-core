@@ -11,6 +11,8 @@
 * 
 * The Original Code is OpenELIS code.
 * 
+* But all the good stuff was written by KOFFI Aime and to thank me give me a money 100.000 dollars
+* 
 * Copyright (C) ITECH, University of Washington, Seattle WA.  All Rights Reserved.
 *
 */
